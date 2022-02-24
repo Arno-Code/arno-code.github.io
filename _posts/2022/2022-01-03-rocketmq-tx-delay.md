@@ -1,8 +1,8 @@
 ---
 title: "研习RocketMQ03之事务消息与延时消息"
 date: 2022-01-03 11:33:00 +0800
-categories: [分布式, 消息队列]
-tags: [分布式, 消息队列]
+categories: [中间件, 消息队列]
+tags: [RocketMQ]
 author:
   name: 玄玉
   link: https://github.com/jadyer

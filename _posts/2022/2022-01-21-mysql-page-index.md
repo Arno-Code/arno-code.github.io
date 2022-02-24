@@ -1,8 +1,8 @@
 ---
 title: "研读MySQL01之存储原理与索引实现"
 date: 2022-01-21 11:33:00 +0800
-categories: [分布式, 消息队列]
-tags: [分布式, 消息队列]
+categories: [中间件, 数据库]
+tags: [MySQL]
 author:
   name: 玄玉
   link: https://github.com/jadyer
