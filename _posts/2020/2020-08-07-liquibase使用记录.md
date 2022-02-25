@@ -3,11 +3,12 @@ title: springboot整合liquibase（强烈推荐）
 author:
   name: leoz
   link: https://github.com/Arno-Code
-date: 2019-08-08 12:10:00 +0800
-categories: [springboot，liquibase]
-tags: [liquibase，数据库版本管理]
+date: 2020-08-07 12:10:00 +0800
+categories: [springboot, liquibase]
+tags: [liquibase, 数据库版本管理]
 render_with_liquid: false
 ---
+
 Liquibase是一个开源数据库模式更改管理解决方案，它使您能够轻松管理数据库更改的修订。Liquibase使参与应用程序发布过程的任何人都可以轻松地：
 
 * 消除发布数据库时的错误和延迟。
