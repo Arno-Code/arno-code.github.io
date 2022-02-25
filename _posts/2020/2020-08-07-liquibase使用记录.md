@@ -37,9 +37,9 @@ spring:
     user: ${spring.datasource.username}
     password: ${spring.datasource.password}
 ```
-contexts：liqubase启动的环境，这里设置为与spring启动环境保持一致
-change-log：加载主（入口）变更文件位置，这里是resources/db/master.xml
-3. 配置主变更文件master.xml
+`contexts`：liqubase启动的环境，这里设置为与spring启动环境保持一致
+`change-log`：加载主（入口）变更文件位置，这里是`resources/db/master.xml`
+3. 配置主变更文件`master.xml`
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <databaseChangeLog
@@ -60,7 +60,7 @@ change-log：加载主（入口）变更文件位置，这里是resources/db/mas
 ```
 4. 编辑子变更文件（实际sql变更内容）,子变更文件格式支持xml与sql
 
-编写01-create-test-schema.xml （xml格式：优点屏蔽不同数据库sql语言差异；缺点是需要一定的学习成本）
+编写`01-create-test-schema.xml` （xml格式：优点屏蔽不同数据库sql语言差异；缺点是需要一定的学习成本）
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <databaseChangeLog
@@ -85,7 +85,7 @@ change-log：加载主（入口）变更文件位置，这里是resources/db/mas
 ```
 xml语法这里不做介绍，详细可以阅读官方文档
 
-编写test.sql （sql格式：优点简单处理即可支持liquibase）
+编写`test.sql` （sql格式：优点简单处理即可支持liquibase）
 ```sql
 --liquibase formatted sql
 --changeset leoz:1
