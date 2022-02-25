@@ -4,7 +4,7 @@ author:
   name: 玄玉
   link: https://github.com/jadyer
 date: 2019-05-08 12:10:00 +0800
-categories: [教程，GIT]
+categories: [使用指南,GIT]
 tags: [GIT]
 render_with_liquid: false
 ---
