@@ -105,12 +105,12 @@ INSERT INTO `test` (`id`, `name`, `author`, `date`) VALUES ('4', 'test', 'admin'
 ```
 这里springboot整合liquibase完成，启动项目看看效果把；项目启动后liquibase会在数据库中添加一个日志表和一个锁表用于版本控制；
 
-**注意：**
+**注意**
 1. sql文件第一行必须是`--liquibase formatted sql`
 2. `--changeset leoz:1`    `--changeset`代表一次变更 leoz:1  指（作者：版本）
 3. 一个sql文件可以写多个变更，一个变更内容一旦执行不可修改；（一次 `--changeset` 中的内容代表一个变更）test.sql中就有两次变更；
 
-**常见错误 **
+**常见错误**
 1. 初始化的时候 如果日志报错`DATABASECHANGELOG`没有主键错误则应该把这条`ALTER TABLE DATABASECHANGELOG ADD PRIMARY KEY (ID);`sql语句加上，否则不用加
 2. 如果自定义配置了数据源有可能出现其他对象访问数据库在liquibase初始化之前，导致出现xxx表不存在错误；这种情况的解决方案可以在依赖数据库的对象上面添加
    `@DependsOn("liquibase")`注解;例如在对ruoyi框架改造时出现了这种问题，解决代码如下

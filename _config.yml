@@ -54,9 +54,10 @@ google_site_verification:               # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
-#baidu-analysis: 'cf0543adfc9404c2aa7b186ab6fd315d'
+baidu_analytics:
+  id: 'cf0543adfc9404c2aa7b186ab6fd315d'
 google_analytics:
-  id: 'cf0543adfc9404c2aa7b186ab6fd315d'                # fill in your Google Analytics ID
+  id:                # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
