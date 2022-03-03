@@ -2,7 +2,7 @@
 title: SpringCloud系列-07之服务网关Zuul
 author:
 name: Leoz
-link: https://github.com/arno-code
+link: https://gitee.com/Arno-Code
 date: 2020-04-15 12:10:00 +0800
 categories: [SpringCloud]
 tags: [SpringCloud]

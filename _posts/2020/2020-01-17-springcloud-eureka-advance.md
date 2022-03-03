@@ -2,7 +2,7 @@
 title: SpringCloud系列-03之注册中心Eureka进阶
 author:
 name: Leoz
-link: https://github.com/arno-code
+link: https://gitee.com/Arno-Code
 date: 2020-01-17 12:10:00 +0800
 categories: [SpringCloud]
 tags: [SpringCloud]

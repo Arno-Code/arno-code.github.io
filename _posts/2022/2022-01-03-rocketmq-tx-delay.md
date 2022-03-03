@@ -5,7 +5,7 @@ categories: [中间件, 消息队列]
 tags: [RocketMQ]
 author:
   name: Leoz
-  link: https://github.com/arno-code
+  link: https://gitee.com/Arno-Code
 excerpt: 介绍RocketMQ的事务消息和延时消息的工作原理。
 published: true
 ---

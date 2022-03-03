@@ -2,7 +2,7 @@
 title: springboot整合liquibase（强烈推荐）
 author:
   name: leoz
-  link: https://github.com/Arno-Code
+  link: https://gitee.com/Arno-Code
 date: 2020-08-07 12:10:00 +0800
 categories: [springboot, liquibase]
 tags: [liquibase, 数据库版本管理]

@@ -2,7 +2,7 @@
 title: SpringCloud系列-06之断路器Hystrix
 author:
 name: Leoz
-link: https://github.com/arno-code
+link: https://gitee.com/Arno-Code
 date: 2020-04-14 12:10:00 +0800
 categories: [SpringCloud]
 tags: [SpringCloud]

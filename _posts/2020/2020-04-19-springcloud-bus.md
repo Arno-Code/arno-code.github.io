@@ -2,7 +2,7 @@
 title: SpringCloud系列-09之消息总线Bus
 author:
 name: Leoz
-link: https://github.com/arno-code
+link: https://gitee.com/Arno-Code
 date: 2020-04-19 12:10:00 +0800
 categories: [SpringCloud]
 tags: [SpringCloud]

@@ -2,7 +2,7 @@
 title: SpringCloud系列-05之服务消费Ribbon和Feign
 author:
 name: Leoz
-link: https://github.com/arno-code
+link: https://gitee.com/Arno-Code
 date: 2020-01-19 12:10:00 +0800
 categories: [SpringCloud]
 tags: [SpringCloud]

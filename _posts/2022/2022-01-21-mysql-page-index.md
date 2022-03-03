@@ -5,7 +5,7 @@ categories: [中间件, 数据库]
 tags: [MySQL]
 author:
   name: Leoz
-  link: https://github.com/arno-code
+  link: https://gitee.com/Arno-Code
 excerpt: 介绍MySQL存储方式以及不同类型索引的工作细节和注意事项。
 published: true
 ---

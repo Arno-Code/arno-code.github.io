@@ -5,7 +5,7 @@ categories: [中间件, 数据库]
 tags: [MySQL]
 author:
   name: Leoz
-  link: https://github.com/arno-code
+  link: https://gitee.com/Arno-Code
 excerpt: 介绍MySQL事务实现方式以及不同类型的锁。
 published: true
 ---

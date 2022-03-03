@@ -2,7 +2,7 @@
 title: SpringCloud系列-04之注册中心Eureka高可用
 author:
 name: Leoz
-link: https://github.com/arno-code
+link: https://gitee.com/Arno-Code
 date: 2020-01-18 12:10:00 +0800
 categories: [SpringCloud]
 tags: [SpringCloud]
