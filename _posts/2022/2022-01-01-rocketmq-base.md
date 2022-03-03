@@ -1,8 +1,8 @@
 ---
 title: 研习RocketMQ01之高可用与消息存储
 author:
-  name: 玄玉
-  link: https://github.com/jadyer
+  name: Leoz
+  link: https://github.com/arno-code
 date: 2019-08-08 14:10:00 +0800
 categories: [中间件, 消息队列]
 tags: [RocketMQ]

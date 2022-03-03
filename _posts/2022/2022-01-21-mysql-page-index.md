@@ -4,8 +4,8 @@ date: 2022-01-21 11:33:00 +0800
 categories: [中间件, 数据库]
 tags: [MySQL]
 author:
-  name: 玄玉
-  link: https://github.com/jadyer
+  name: Leoz
+  link: https://github.com/arno-code
 excerpt: 介绍MySQL存储方式以及不同类型索引的工作细节和注意事项。
 published: true
 ---

@@ -4,8 +4,8 @@ date: 2022-01-03 11:33:00 +0800
 categories: [中间件, 消息队列]
 tags: [RocketMQ]
 author:
-  name: 玄玉
-  link: https://github.com/jadyer
+  name: Leoz
+  link: https://github.com/arno-code
 excerpt: 介绍RocketMQ的事务消息和延时消息的工作原理。
 published: true
 ---

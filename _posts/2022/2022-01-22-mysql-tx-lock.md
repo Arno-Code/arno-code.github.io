@@ -4,8 +4,8 @@ date: 2022-01-22 11:33:00 +0800
 categories: [中间件, 数据库]
 tags: [MySQL]
 author:
-  name: 玄玉
-  link: https://github.com/jadyer
+  name: Leoz
+  link: https://github.com/arno-code
 excerpt: 介绍MySQL事务实现方式以及不同类型的锁。
 published: true
 ---

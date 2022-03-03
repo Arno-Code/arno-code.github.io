@@ -4,8 +4,8 @@ date: 2022-01-02 11:33:00 +0800
 categories: [中间件, 消息队列]
 tags: [RocketMQ]
 author:
-  name: 玄玉
-  link: https://github.com/jadyer
+  name: Leoz
+  link: https://github.com/arno-code
 excerpt: 介绍RocketMQ的消息数据生产和消费逻辑与负载均衡设计原理。
 published: true
 ---
