@@ -1,6 +1,6 @@
 ---
 ---
-title: 研习RocketMQ01之高可用与消息存储
+title: mybatis-plus踩坑日记
 author:
 name: Leoz
 link: https://gitee.com/Arno-Code
